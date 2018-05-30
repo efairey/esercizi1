@@ -1,0 +1,18 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" src="lib/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="lib/chili-1.7.pack.js"></script>
+<script type="text/javascript" src="lib/jquery.media.js"></script>
+<script type="text/javascript" src="lib/jquery.metadata.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('a.media').media( { width: 80, height: 20 } );
+    });
+</script>
+
+
+
+
+</head>
+
+<body>
+		<a class="media" href="audio/lucy_in_the_sky_with_diamonds.mp3">MP3 File</a> 
